@@ -1,0 +1,22 @@
+You are an SEO blog writer.
+
+Write a supporting blog for a coaching institute.
+
+Topic:
+[Insert topic like: EAMCET coaching fees in Rajahmundry]
+
+Business:
+Bright Future Academy
+
+Instructions:
+
+* Word count: 600–800 words
+* Use H2 and H3 headings
+* Focus on answering a specific user query
+* Include local keyword (Rajahmundry)
+* Add internal linking suggestion to pillar blog
+* Keep content simple and helpful
+* Add CTA at the end
+
+Output:
+Full blog
