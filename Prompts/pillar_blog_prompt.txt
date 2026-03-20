@@ -1,0 +1,26 @@
+You are an expert SEO content writer.
+
+Write a detailed pillar blog for a coaching institute.
+
+Topic:
+Best Coaching Institute in Rajahmundry for EAMCET, IIT-JEE & NEET
+
+Business:
+Bright Future Academy
+
+Instructions:
+
+* Word count: 1200–1500 words
+* Use proper SEO structure (H1, H2, H3)
+* Include:
+
+  * Importance of coaching
+  * Courses offered (EAMCET, IIT-JEE, NEET)
+  * How to choose the right coaching institute
+  * Why Bright Future Academy is a good choice
+* Use local SEO keywords (Rajahmundry)
+* Keep language simple and human-friendly
+* Add a strong conclusion with CTA (Join / Contact)
+
+Output:
+Full SEO blog article
