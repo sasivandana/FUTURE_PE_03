@@ -72,7 +72,7 @@ Local SEO Optimization
 ---
 
 Repository Structure
-
+```
 FUTURE_PE_03
 │
 ├── README.md
@@ -100,7 +100,7 @@ Deliverables Included
 - Keyword Strategy
 - SEO Blog Structure
 - Local SEO Content
-
+```
 ---
 
 Tools Used
