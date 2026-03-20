@@ -1,0 +1,22 @@
+You are a local SEO content writer.
+
+Write location-based SEO content.
+
+Business:
+Bright Future Academy
+
+Location:
+Rajahmundry
+
+Instructions:
+
+* Include:
+
+  * Local keywords
+  * Nearby landmark references
+* Target parents and students
+* Keep it short (150–200 words)
+* Add CTA
+
+Output:
+Local SEO paragraph
