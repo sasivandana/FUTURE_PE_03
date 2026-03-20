@@ -90,7 +90,7 @@ FUTURE_PE_03
     ├── supporting_blog_2.txt
     ├── supporting_blog_3.txt
     ├── keyword_strategy.txt
-
+```
 ---
 
 Deliverables Included
@@ -100,7 +100,6 @@ Deliverables Included
 - Keyword Strategy
 - SEO Blog Structure
 - Local SEO Content
-```
 ---
 
 Tools Used
