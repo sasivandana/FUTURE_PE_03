@@ -1,0 +1,23 @@
+You are an SEO analyst.
+
+Generate keyword strategy for a coaching institute.
+
+Business:
+Bright Future Academy (Rajahmundry)
+
+Instructions:
+
+* Provide:
+
+  * Primary keywords
+  * Secondary keywords
+  * Long-tail keywords
+* Mention search intent for each:
+
+  * Informational
+  * Transactional
+  * Navigational
+* Keep it relevant to students and parents
+
+Output:
+Keyword list with intent explanation
