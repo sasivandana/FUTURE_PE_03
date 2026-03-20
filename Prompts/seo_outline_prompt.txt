@@ -1,0 +1,19 @@
+You are an SEO strategist.
+
+Generate a blog outline.
+
+Topic:
+Coaching institute in Rajahmundry
+
+Instructions:
+
+* Include:
+
+  * H1 (main title)
+  * H2 (main sections)
+  * H3 (sub-sections)
+* Add FAQ section
+* Ensure headings match search intent
+
+Output:
+Structured SEO outline
